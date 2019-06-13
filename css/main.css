@@ -1,0 +1,99 @@
+.logo1{
+	position: relative;
+	top: 10px;
+	left: 10px;
+}
+
+.tabela_logo2{
+	position: absolute;
+	top: 0px; 
+	left: 0px;
+	opacity: 0.8;
+}
+.tabela_links{
+	position: relative;
+	top: 300px;
+	left: 300px;
+	font-family: sans-serif;
+	width: 1360px;
+	height: 100px;
+	text-decoration: none;
+}   
+.tabelatransparente {
+	position:absolute;
+	top:400px;
+	left: 0px;
+	width: 1360px;
+	height:50;
+	opacity: 0.5;
+	background-color: #000000;
+}
+.titulo1 {
+	position:absolute;
+	top: 500px;
+	left: 500px;
+	font-family: sans-serif;
+	padding: 10px 10px 10px 10px;
+	font-size: 25px;
+}
+.texto1 {
+	position: relative;
+	top:400px;
+	left: 70px ;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+.titulo2 {
+	position: absolute;
+	top: 900px;
+	left: 450px;
+	font-family: sans-serif;
+	font-size: 25px;
+	
+}
+.mapa{
+	position: absolute;
+	top: 1000px;
+	left: 1000px;
+	width: 10px;
+	height: 10px;
+}
+.texto2 {
+	position: relative;
+	top:650px;
+	left: 70px ;
+	width: 900px;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+.fb {
+	position: absolute;
+	top:50px;
+	left: 500px;
+}
+.tt {
+	position: absolute;
+	top:0px;
+	left: 100px;
+}
+.instagram{
+	position: absolute;
+	top:0px;
+	left: 100px;
+}
+.pinterest{
+	position: absolute;
+	top:0px;
+	left: 100px;
+}
+.tela_preta {
+	position:absolute;
+	top:1500px;
+	left: 0px;
+	width: 1360px;
+	height:150px;
+	opacity: 0.6;
+	background-color: #000000;
+	
+}
